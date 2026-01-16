@@ -2,12 +2,12 @@ class Solution {
 public:
     vector<bool> kidsWithCandies(vector<int>& candies, int extraCandies) {
         vector<bool> ans;
-        int maxcandy = 0;
+        int largest = 0;
         for (auto x : candies) {
-            maxcandy = max(maxcandy, x);
+         largest= max(largest, x);
         }
         for (auto x : candies) {
-            if (x + extraCandies >= maxcandy) {
+            if (x + extraCandies >= largest) {
                 ans.push_back(true);
 
             } else {
