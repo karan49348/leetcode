@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/karan49348/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/karan49348/leetcode/tree/master/0075-sort-colors) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karan49348/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/karan49348/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/karan49348/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/karan49348/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/karan49348/leetcode/tree/master/0075-sort-colors) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karan49348/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
@@ -84,4 +86,8 @@
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karan49348/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/karan49348/leetcode/tree/master/2413-smallest-even-multiple) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/karan49348/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
