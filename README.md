@@ -25,6 +25,7 @@
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/karan49348/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1512-number-of-good-pairs](https://github.com/karan49348/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2413-smallest-even-multiple](https://github.com/karan49348/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karan49348/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/karan49348/leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
