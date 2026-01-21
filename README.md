@@ -47,6 +47,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/karan49348/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/karan49348/leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/karan49348/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/karan49348/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karan49348/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/karan49348/leetcode/tree/master/0704-binary-search) |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/karan49348/leetcode/tree/master/0704-binary-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/karan49348/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
