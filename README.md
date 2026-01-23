@@ -47,6 +47,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/karan49348/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/karan49348/leetcode/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/karan49348/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/karan49348/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karan49348/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/karan49348/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -103,6 +104,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/karan49348/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/karan49348/leetcode/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
@@ -116,5 +118,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/karan49348/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/karan49348/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
