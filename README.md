@@ -30,6 +30,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/karan49348/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/karan49348/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/karan49348/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/karan49348/leetcode/tree/master/0205-isomorphic-strings) |
@@ -45,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/karan49348/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/karan49348/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/karan49348/leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/karan49348/leetcode/tree/master/0074-search-a-2d-matrix) |
