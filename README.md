@@ -10,6 +10,7 @@
 | [0168-excel-sheet-column-title](https://github.com/karan49348/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/karan49348/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/karan49348/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/karan49348/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/karan49348/leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/karan49348/leetcode/tree/master/0409-longest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/karan49348/leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -38,6 +39,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/karan49348/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/karan49348/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/karan49348/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/karan49348/leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/karan49348/leetcode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/karan49348/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karan49348/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -74,6 +76,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/karan49348/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/karan49348/leetcode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/karan49348/leetcode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/karan49348/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karan49348/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
