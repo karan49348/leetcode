@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/karan49348/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/karan49348/leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/karan49348/leetcode/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/karan49348/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/karan49348/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/karan49348/leetcode/tree/master/0205-isomorphic-strings) |
