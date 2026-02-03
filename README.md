@@ -18,6 +18,7 @@
 | [0459-repeated-substring-pattern](https://github.com/karan49348/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karan49348/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/karan49348/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2351-first-letter-to-appear-twice](https://github.com/karan49348/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karan49348/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karan49348/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/karan49348/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/karan49348/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/karan49348/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/karan49348/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/karan49348/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting Sort
 |  |
 | ------- |
@@ -142,4 +145,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/karan49348/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/karan49348/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
