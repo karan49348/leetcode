@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/karan49348/leetcode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/karan49348/leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karan49348/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/karan49348/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
@@ -69,6 +70,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karan49348/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/karan49348/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karan49348/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0682-baseball-game](https://github.com/karan49348/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/karan49348/leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/karan49348/leetcode/tree/master/0867-transpose-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karan49348/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/karan49348/leetcode/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/karan49348/leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/karan49348/leetcode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/karan49348/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/karan49348/leetcode/tree/master/1929-concatenation-of-array) |
