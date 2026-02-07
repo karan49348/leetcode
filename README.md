@@ -16,6 +16,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/karan49348/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/karan49348/leetcode/tree/master/0409-longest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/karan49348/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0844-backspace-string-compare](https://github.com/karan49348/leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/karan49348/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karan49348/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/karan49348/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/karan49348/leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/karan49348/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/karan49348/leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/karan49348/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karan49348/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/karan49348/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -104,6 +106,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/karan49348/leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/karan49348/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/karan49348/leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/karan49348/leetcode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/karan49348/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/karan49348/leetcode/tree/master/1929-concatenation-of-array) |
@@ -135,6 +138,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/karan49348/leetcode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/karan49348/leetcode/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/karan49348/leetcode/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
