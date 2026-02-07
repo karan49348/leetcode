@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/karan49348/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/karan49348/leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/karan49348/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/karan49348/leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/karan49348/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -172,4 +173,8 @@
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/karan49348/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/karan49348/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
