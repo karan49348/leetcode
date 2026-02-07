@@ -16,6 +16,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/karan49348/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/karan49348/leetcode/tree/master/0409-longest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/karan49348/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [1021-remove-outermost-parentheses](https://github.com/karan49348/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karan49348/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/karan49348/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/karan49348/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/karan49348/leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/karan49348/leetcode/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/karan49348/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karan49348/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/karan49348/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
