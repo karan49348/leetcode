@@ -28,6 +28,7 @@
 | [0020-valid-parentheses](https://github.com/karan49348/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/karan49348/leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/karan49348/leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/karan49348/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/karan49348/leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/karan49348/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karan49348/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -79,6 +80,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karan49348/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/karan49348/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/karan49348/leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/karan49348/leetcode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/karan49348/leetcode/tree/master/0867-transpose-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karan49348/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/karan49348/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -177,4 +179,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/karan49348/leetcode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/karan49348/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
