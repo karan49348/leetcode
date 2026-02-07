@@ -54,6 +54,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karan49348/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/karan49348/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/karan49348/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/karan49348/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sliding Window
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [1929-concatenation-of-array](https://github.com/karan49348/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karan49348/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/karan49348/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/karan49348/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | [0242-valid-anagram](https://github.com/karan49348/leetcode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/karan49348/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karan49348/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/karan49348/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -103,11 +106,13 @@
 | [1920-build-array-from-permutation](https://github.com/karan49348/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/karan49348/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/karan49348/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/karan49348/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/karan49348/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/karan49348/leetcode/tree/master/0409-longest-palindrome) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/karan49348/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Counting
 |  |
 | ------- |
@@ -157,4 +162,8 @@
 | ------- |
 | [0136-single-number](https://github.com/karan49348/leetcode/tree/master/0136-single-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/karan49348/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/karan49348/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
