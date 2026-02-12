@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/karan49348/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/karan49348/leetcode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/karan49348/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/karan49348/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/karan49348/leetcode/tree/master/0058-length-of-last-word) |
@@ -152,6 +153,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/karan49348/leetcode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/karan49348/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karan49348/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
@@ -186,4 +188,8 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/karan49348/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/karan49348/leetcode/tree/master/0739-daily-temperatures) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/karan49348/leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
