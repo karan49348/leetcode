@@ -170,6 +170,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/karan49348/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/karan49348/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/karan49348/leetcode/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/karan49348/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -192,4 +194,8 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/karan49348/leetcode/tree/master/0010-regular-expression-matching) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/karan49348/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
