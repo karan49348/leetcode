@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karan49348/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/karan49348/leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/karan49348/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/karan49348/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/karan49348/leetcode/tree/master/0054-spiral-matrix) |
@@ -126,6 +127,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/karan49348/leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/karan49348/leetcode/tree/master/0409-longest-palindrome) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/karan49348/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Counting
@@ -146,6 +148,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/karan49348/leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/karan49348/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karan49348/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/karan49348/leetcode/tree/master/0344-reverse-string) |
