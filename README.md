@@ -43,6 +43,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/karan49348/leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karan49348/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/karan49348/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/karan49348/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -77,6 +78,7 @@
 | [0001-two-sum](https://github.com/karan49348/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/karan49348/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/karan49348/leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/karan49348/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/karan49348/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/karan49348/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/karan49348/leetcode/tree/master/0054-spiral-matrix) |
@@ -184,6 +186,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/karan49348/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/karan49348/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/karan49348/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/karan49348/leetcode/tree/master/0867-transpose-matrix) |
