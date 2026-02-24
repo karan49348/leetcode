@@ -58,6 +58,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/karan49348/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/karan49348/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/karan49348/leetcode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/karan49348/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/karan49348/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/karan49348/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/karan49348/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/karan49348/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/karan49348/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Array
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/karan49348/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karan49348/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/karan49348/leetcode/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/karan49348/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/karan49348/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/karan49348/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/karan49348/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
