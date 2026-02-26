@@ -122,6 +122,7 @@
 | [0049-group-anagrams](https://github.com/karan49348/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/karan49348/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/karan49348/leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/karan49348/leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/karan49348/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/karan49348/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/karan49348/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -174,6 +175,7 @@
 | [0031-next-permutation](https://github.com/karan49348/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/karan49348/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/karan49348/leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/karan49348/leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karan49348/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/karan49348/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/karan49348/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -197,6 +199,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/karan49348/leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/karan49348/leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/karan49348/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
@@ -252,8 +255,13 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/karan49348/leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/karan49348/leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/karan49348/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/karan49348/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/karan49348/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/karan49348/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/karan49348/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
