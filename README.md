@@ -116,6 +116,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karan49348/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/karan49348/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/karan49348/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3467-transform-array-by-parity](https://github.com/karan49348/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/karan49348/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karan49348/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/karan49348/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3467-transform-array-by-parity](https://github.com/karan49348/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/karan49348/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/karan49348/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/karan49348/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3467-transform-array-by-parity](https://github.com/karan49348/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Counting Sort
 |  |
 | ------- |
