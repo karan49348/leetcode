@@ -51,6 +51,7 @@
 | [0168-excel-sheet-column-title](https://github.com/karan49348/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/karan49348/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/karan49348/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/karan49348/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/karan49348/leetcode/tree/master/0231-power-of-two) |
 | [1512-number-of-good-pairs](https://github.com/karan49348/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karan49348/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -99,6 +100,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/karan49348/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karan49348/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/karan49348/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/karan49348/leetcode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/karan49348/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/karan49348/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/karan49348/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -172,6 +174,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/karan49348/leetcode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karan49348/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/karan49348/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Two Pointers
@@ -273,4 +276,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/karan49348/leetcode/tree/master/0148-sort-list) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/karan49348/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
