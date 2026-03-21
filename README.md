@@ -47,6 +47,7 @@
 | [0007-reverse-integer](https://github.com/karan49348/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/karan49348/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/karan49348/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/karan49348/leetcode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karan49348/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/karan49348/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/karan49348/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -247,6 +248,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/karan49348/leetcode/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/karan49348/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/karan49348/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/karan49348/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/karan49348/leetcode/tree/master/0234-palindrome-linked-list) |
