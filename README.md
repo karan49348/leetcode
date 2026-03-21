@@ -51,6 +51,7 @@
 | [0168-excel-sheet-column-title](https://github.com/karan49348/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/karan49348/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/karan49348/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/karan49348/leetcode/tree/master/0231-power-of-two) |
 | [1512-number-of-good-pairs](https://github.com/karan49348/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karan49348/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/karan49348/leetcode/tree/master/2413-smallest-even-multiple) |
@@ -222,6 +223,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/karan49348/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/karan49348/leetcode/tree/master/0231-power-of-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/karan49348/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Heap (Priority Queue)
 |  |
@@ -243,6 +245,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/karan49348/leetcode/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/karan49348/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/karan49348/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/karan49348/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Data Stream
 |  |
